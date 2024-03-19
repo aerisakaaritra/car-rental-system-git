@@ -32,6 +32,22 @@ Make sure you have the following installed on your system:
 
 - Java Development Kit (JDK)
 - Any text editor or IDE of your choice (e.g., IntelliJ IDEA, Eclipse, Visual Studio Code)
+  
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/YourFeature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin feature/YourFeature`)
+5. Open a pull request
+
+Please make sure to follow the [code of conduct](CODE_OF_CONDUCT.md) and [contribution guidelines](CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute this code as per the terms of the license.
 
 ### Installation
 
@@ -39,3 +55,5 @@ Make sure you have the following installed on your system:
 
 ```bash
 git clone https://github.com/your-username/car-rental-system.git
+
+
